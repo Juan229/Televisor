@@ -4,8 +4,6 @@ public class Televisor {
 	
 	int tamaño;
 	
-	int volumen;
-	
 	int canal;
 	
 	String  entrada;
@@ -15,6 +13,9 @@ public class Televisor {
 	
 	public void setEncendido(boolean encendido) {
 		this.Encendido = encendido;
+		
+		
+		
 		
 		
 	}
